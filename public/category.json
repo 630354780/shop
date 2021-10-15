@@ -1,0 +1,579 @@
+{
+    "data": {
+        "categor": {
+            "categorItem": [
+                {
+                    "sysObjectId": 80009,
+                    "categoryId": 80013,
+                    "categoryNm": "以岭专区/药品/保健品",
+                    "subCateStr": "创新中药/OTC药品/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 80009,
+                            "categoryId": 80013,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80014,
+                            "categoryId": 80018,
+                            "categoryNm": "创新中药"
+                        },
+                        {
+                            "sysObjectId": 80189,
+                            "categoryId": 80193,
+                            "categoryNm": "OTC药品"
+                        },
+                        {
+                            "sysObjectId": 80268,
+                            "categoryId": 80272,
+                            "categoryNm": "保健食品"
+                        },
+                        {
+                            "sysObjectId": 80323,
+                            "categoryId": 80327,
+                            "categoryNm": "健康食品"
+                        },
+                        {
+                            "sysObjectId": 80371,
+                            "categoryId": 80375,
+                            "categoryNm": "医疗器械"
+                        },
+                        {
+                            "sysObjectId": 81187,
+                            "categoryId": 90721,
+                            "categoryNm": "其他药品类"
+                        },
+                        {
+                            "sysObjectId": 81895,
+                            "categoryId": 96475,
+                            "categoryNm": "保健枕"
+                        },
+                        {
+                            "sysObjectId": 81847,
+                            "categoryId": 96405,
+                            "categoryNm": "亚健康调理"
+                        },
+                        {
+                            "sysObjectId": 81935,
+                            "categoryId": 96915,
+                            "categoryNm": "书籍"
+                        },
+                        {
+                            "sysObjectId": 81965,
+                            "categoryId": 99250,
+                            "categoryNm": "消杀产品"
+                        },
+                        {
+                            "sysObjectId": 81966,
+                            "categoryId": 99251,
+                            "categoryNm": "口罩"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 80037,
+                    "categoryId": 80041,
+                    "categoryNm": "日常用药/感冒/消化/咳嗽",
+                    "subCateStr": "家庭常备/消化科/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 80037,
+                            "categoryId": 80041,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80235,
+                            "categoryId": 80239,
+                            "categoryNm": "家庭常备"
+                        },
+                        {
+                            "sysObjectId": 80450,
+                            "categoryId": 80454,
+                            "categoryNm": "消化科"
+                        },
+                        {
+                            "sysObjectId": 80530,
+                            "categoryId": 80534,
+                            "categoryNm": "儿科"
+                        },
+                        {
+                            "sysObjectId": 81221,
+                            "categoryId": 92507,
+                            "categoryNm": "妇科"
+                        },
+                        {
+                            "sysObjectId": 81247,
+                            "categoryId": 92533,
+                            "categoryNm": "耳鼻喉科"
+                        },
+                        {
+                            "sysObjectId": 81261,
+                            "categoryId": 92547,
+                            "categoryNm": "口腔科"
+                        },
+                        {
+                            "sysObjectId": 81271,
+                            "categoryId": 92557,
+                            "categoryNm": "眼科"
+                        },
+                        {
+                            "sysObjectId": 81277,
+                            "categoryId": 92563,
+                            "categoryNm": "内分泌"
+                        },
+                        {
+                            "sysObjectId": 81291,
+                            "categoryId": 92577,
+                            "categoryNm": "呼吸科"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 80001,
+                    "categoryId": 80005,
+                    "categoryNm": "医疗器械/血压/血糖/试纸",
+                    "subCateStr": "血糖监测/血压监测/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 80001,
+                            "categoryId": 80005,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80765,
+                            "categoryId": 86203,
+                            "categoryNm": "血糖监测"
+                        },
+                        {
+                            "sysObjectId": 80819,
+                            "categoryId": 86257,
+                            "categoryNm": "血压监测"
+                        },
+                        {
+                            "sysObjectId": 80841,
+                            "categoryId": 86279,
+                            "categoryNm": "体温监测"
+                        },
+                        {
+                            "sysObjectId": 80282,
+                            "categoryId": 80286,
+                            "categoryNm": "保健理疗"
+                        },
+                        {
+                            "sysObjectId": 80855,
+                            "categoryId": 86293,
+                            "categoryNm": "健康监测"
+                        },
+                        {
+                            "sysObjectId": 81305,
+                            "categoryId": 92591,
+                            "categoryNm": "康复辅助"
+                        },
+                        {
+                            "sysObjectId": 81313,
+                            "categoryId": 92599,
+                            "categoryNm": "家庭常备"
+                        },
+                        {
+                            "sysObjectId": 81976,
+                            "categoryId": 99318,
+                            "categoryNm": "智能设备"
+                        },
+                        {
+                            "sysObjectId": 81601,
+                            "categoryId": 93069,
+                            "categoryNm": "成人用品"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 80004,
+                    "categoryId": 80008,
+                    "categoryNm": "中华养生奇珍/人参/虫草/饮片",
+                    "subCateStr": "参茸贵细/西域奇珍/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 80004,
+                            "categoryId": 80008,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80068,
+                            "categoryId": 80072,
+                            "categoryNm": "参茸贵细"
+                        },
+                        {
+                            "sysObjectId": 80083,
+                            "categoryId": 80087,
+                            "categoryNm": "西域奇珍"
+                        },
+                        {
+                            "sysObjectId": 80079,
+                            "categoryId": 80083,
+                            "categoryNm": "东北奇珍"
+                        },
+                        {
+                            "sysObjectId": 80061,
+                            "categoryId": 80065,
+                            "categoryNm": "云贵奇珍"
+                        },
+                        {
+                            "sysObjectId": 80047,
+                            "categoryId": 80051,
+                            "categoryNm": "中药饮片"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 81139,
+                    "categoryId": 86809,
+                    "categoryNm": "国际健康精品/欧美/澳洲",
+                    "subCateStr": "保健食品/健康食品/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 81139,
+                            "categoryId": 86809,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80029,
+                            "categoryId": 80033,
+                            "categoryNm": "保健食品"
+                        },
+                        {
+                            "sysObjectId": 80036,
+                            "categoryId": 80040,
+                            "categoryNm": "健康食品"
+                        },
+                        {
+                            "sysObjectId": 80044,
+                            "categoryId": 80048,
+                            "categoryNm": "健康生活"
+                        },
+                        {
+                            "sysObjectId": 80052,
+                            "categoryId": 80056,
+                            "categoryNm": "减肥"
+                        },
+                        {
+                            "sysObjectId": 80070,
+                            "categoryId": 80074,
+                            "categoryNm": "健康美丽"
+                        },
+                        {
+                            "sysObjectId": 80062,
+                            "categoryId": 80066,
+                            "categoryNm": "运动健身"
+                        },
+                        {
+                            "sysObjectId": 81345,
+                            "categoryId": 92631,
+                            "categoryNm": "健康家居"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 80006,
+                    "categoryId": 80010,
+                    "categoryNm": "慢性病调护/心脏病/糖尿病",
+                    "subCateStr": "心血管疾病/糖尿病/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 80006,
+                            "categoryId": 80010,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80017,
+                            "categoryId": 80021,
+                            "categoryNm": "心血管疾病"
+                        },
+                        {
+                            "sysObjectId": 80242,
+                            "categoryId": 80246,
+                            "categoryNm": "糖尿病"
+                        },
+                        {
+                            "sysObjectId": 80250,
+                            "categoryId": 80254,
+                            "categoryNm": "脑血管病"
+                        },
+                        {
+                            "sysObjectId": 80258,
+                            "categoryId": 80262,
+                            "categoryNm": "肿瘤"
+                        },
+                        {
+                            "sysObjectId": 80267,
+                            "categoryId": 80271,
+                            "categoryNm": "风湿骨病"
+                        },
+                        {
+                            "sysObjectId": 81946,
+                            "categoryId": 97809,
+                            "categoryNm": "肝胆"
+                        },
+                        {
+                            "sysObjectId": 81949,
+                            "categoryId": 97870,
+                            "categoryNm": "肾脏疾病"
+                        },
+                        {
+                            "sysObjectId": 81956,
+                            "categoryId": 97883,
+                            "categoryNm": "其他"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 81137,
+                    "categoryId": 86807,
+                    "categoryNm": "亚健康调理/失眠/抗疲劳",
+                    "subCateStr": "中医补养/增强免疫/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 81137,
+                            "categoryId": 86807,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80741,
+                            "categoryId": 86179,
+                            "categoryNm": "中医补养"
+                        },
+                        {
+                            "sysObjectId": 80401,
+                            "categoryId": 80405,
+                            "categoryNm": "增强免疫"
+                        },
+                        {
+                            "sysObjectId": 80646,
+                            "categoryId": 80650,
+                            "categoryNm": "脏腑调理"
+                        },
+                        {
+                            "sysObjectId": 80731,
+                            "categoryId": 86169,
+                            "categoryNm": "失眠调整"
+                        },
+                        {
+                            "sysObjectId": 80733,
+                            "categoryId": 86171,
+                            "categoryNm": "疲劳恢复"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 81051,
+                    "categoryId": 86493,
+                    "categoryNm": "保健护理/男性保健/女性护理/美妆",
+                    "subCateStr": "男性疾病/男性保健/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 81051,
+                            "categoryId": 86493,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 81053,
+                            "categoryId": 86495,
+                            "categoryNm": "男性疾病"
+                        },
+                        {
+                            "sysObjectId": 81055,
+                            "categoryId": 86497,
+                            "categoryNm": "男性保健"
+                        },
+                        {
+                            "sysObjectId": 81057,
+                            "categoryId": 86499,
+                            "categoryNm": "男性洗护"
+                        },
+                        {
+                            "sysObjectId": 81405,
+                            "categoryId": 92691,
+                            "categoryNm": "女性疾病"
+                        },
+                        {
+                            "sysObjectId": 81429,
+                            "categoryId": 92715,
+                            "categoryNm": "靓丽女人"
+                        },
+                        {
+                            "sysObjectId": 81453,
+                            "categoryId": 92739,
+                            "categoryNm": "滋养女性"
+                        },
+                        {
+                            "sysObjectId": 81467,
+                            "categoryId": 92753,
+                            "categoryNm": "女性美妆"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 81469,
+                    "categoryId": 92755,
+                    "categoryNm": "营养健康/老年关爱/儿童成长/母婴",
+                    "subCateStr": "孝敬父母/儿童营养/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 81469,
+                            "categoryId": 92755,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 81471,
+                            "categoryId": 92757,
+                            "categoryNm": "孝敬父母"
+                        },
+                        {
+                            "sysObjectId": 81485,
+                            "categoryId": 92771,
+                            "categoryNm": "儿童营养"
+                        },
+                        {
+                            "sysObjectId": 81521,
+                            "categoryId": 92807,
+                            "categoryNm": "母婴用品"
+                        },
+                        {
+                            "sysObjectId": 81525,
+                            "categoryId": 92811,
+                            "categoryNm": "孕妈妈"
+                        },
+                        {
+                            "sysObjectId": 81537,
+                            "categoryId": 92823,
+                            "categoryNm": "女性疾病"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 81141,
+                    "categoryId": 86811,
+                    "categoryNm": "营养成分/维生素/补钙",
+                    "subCateStr": "维生素/矿物质/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 81141,
+                            "categoryId": 86811,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80735,
+                            "categoryId": 86173,
+                            "categoryNm": "维生素"
+                        },
+                        {
+                            "sysObjectId": 80737,
+                            "categoryId": 86175,
+                            "categoryNm": "矿物质"
+                        },
+                        {
+                            "sysObjectId": 81347,
+                            "categoryId": 92633,
+                            "categoryNm": "孝敬父母"
+                        },
+                        {
+                            "sysObjectId": 81361,
+                            "categoryId": 92647,
+                            "categoryNm": "魅力女性"
+                        },
+                        {
+                            "sysObjectId": 81375,
+                            "categoryId": 92661,
+                            "categoryNm": "儿童营养"
+                        },
+                        {
+                            "sysObjectId": 81389,
+                            "categoryId": 92675,
+                            "categoryNm": "营养品"
+                        },
+                        {
+                            "sysObjectId": 81589,
+                            "categoryId": 92967,
+                            "categoryNm": "基础营养"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 80891,
+                    "categoryId": 86333,
+                    "categoryNm": "健康生活/家居/运动/驴行",
+                    "subCateStr": "健康小家电/健康家居/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 80891,
+                            "categoryId": 86333,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80897,
+                            "categoryId": 86339,
+                            "categoryNm": "健康小家电"
+                        },
+                        {
+                            "sysObjectId": 80901,
+                            "categoryId": 86343,
+                            "categoryNm": "健康家居"
+                        },
+                        {
+                            "sysObjectId": 80907,
+                            "categoryId": 86349,
+                            "categoryNm": "健康生活"
+                        },
+                        {
+                            "sysObjectId": 80911,
+                            "categoryId": 86353,
+                            "categoryNm": "运动健身"
+                        },
+                        {
+                            "sysObjectId": 80919,
+                            "categoryId": 86361,
+                            "categoryNm": "户外装备"
+                        }
+                    ]
+                },
+                {
+                    "sysObjectId": 80877,
+                    "categoryId": 86319,
+                    "categoryNm": "健康食材/有机食材/零食",
+                    "subCateStr": "健康油品/冲调茶饮/",
+                    "subCategory": [
+                        {
+                            "sysObjectId": 80877,
+                            "categoryId": 86319,
+                            "categoryNm": "全部"
+                        },
+                        {
+                            "sysObjectId": 80879,
+                            "categoryId": 86321,
+                            "categoryNm": "健康油品"
+                        },
+                        {
+                            "sysObjectId": 80953,
+                            "categoryId": 86395,
+                            "categoryNm": "冲调茶饮"
+                        },
+                        {
+                            "sysObjectId": 81395,
+                            "categoryId": 92681,
+                            "categoryNm": "健康零食"
+                        },
+                        {
+                            "sysObjectId": 80899,
+                            "categoryId": 86341,
+                            "categoryNm": "有机食品"
+                        },
+                        {
+                            "sysObjectId": 80925,
+                            "categoryId": 86367,
+                            "categoryNm": "南北干货"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
